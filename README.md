@@ -1,4 +1,4 @@
-![Web Developer](https://media.licdn.com/dms/image/D5616AQHIsW-zs8FKoQ/profile-displaybackgroundimage-shrink_350_1400/0/1697863828289?e=1704326400&v=beta&t=hh0ajkCnalV2zrG5Xoh1nlF2slR6p8RJt04izR2UUU4)
+
 
 ### Hi there 👋, This is Neaz Morshed
 #### Web Developer
