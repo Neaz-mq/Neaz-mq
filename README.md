@@ -17,7 +17,7 @@ Skills:
 🔰 NODE 
 🔰 WORDPRESS
 
-- 🌱 I’m currently learning MERN 
+- 🌱 I’m working on MERN Stack 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
 
