@@ -11,11 +11,12 @@ Skills:
 🔰 CSS 
 🔰 JavaScript
 🔰 REACT 
+🔰 Next JS
 🔰 FIREBASE 
 🔰 MONGODB 
 🔰 EXPRESSJS 
 🔰 NODE 
-🔰 WORDPRESS
+🔰 TypeScript
 
 - 🌱 I’m working on MERN Stack 
 - 👯 I’m looking to collaborate on github 
